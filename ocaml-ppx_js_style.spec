@@ -45,7 +45,7 @@ używających biblioteki ppx_js_style.
 
 %package devel
 Summary:	Code style checker for Jane Street Packages - development part
-Summary(pl.UTF-8):	Sprawdzanie stylu kodu dla pakietów Jane Street - cześć programistyczna
+Summary(pl.UTF-8):	Sprawdzanie stylu kodu dla pakietów Jane Street - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
